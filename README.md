@@ -32,6 +32,7 @@ I’m passionate about building secure systems from the ground up—combining my
 ### 🔍 Security Event Monitoring  
 **Tech Stack:** Splunk, Suricata, AWS CloudTrail, Python, PowerShell  
 **Description:** Designed and implemented a centralized security monitoring framework by integrating AWS CloudTrail logs with Suricata IDS alerts into Splunk. Built enrichment scripts in Python to pull in threat intelligence data, enabling faster and more accurate incident correlation. Developed custom Splunk dashboards and correlation rules that significantly reduced false positives and accelerated incident response times for simulated attacks.
+
 Link : [https://github.com/almeidamarilyn/Security_Event_Monitoring_Suricata_AWS_Splunk]
 ---
 
