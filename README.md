@@ -20,9 +20,9 @@ I’m passionate about building secure systems from the ground up—combining my
 ## 💼 Work Experience
 
 **Security Engineer – Circle Internet Financial** *(May 2024 – Dec 2024)*  
-- Automated cloud resource analysis scripts (↑ efficiency 30%)  
+- Automated cloud resource analysis scripts   
 - Built Kubernetes admission controllers with custom Rego rules  
-- Automated IaC security scans in CI/CD (↓ compliance violations 15%)  
+- Automated IaC security scans in CI/CD
 - Tested & integrated SAST/DAST tools (Aqua Trivy, CodeQL, Backslash)  
 - Enhanced cloud security posture via Wiz integration  
 ---
