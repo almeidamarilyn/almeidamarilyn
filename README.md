@@ -51,7 +51,12 @@ I’m passionate about building secure systems from the ground up—combining my
 Developed a fully functional E-Learning platform that increased user engagement by 40%. Built backend infrastructure with secure login authentication and video upload capabilities for course management. Integrated discussion forums and one-on-one chat features, resulting in a 25% boost in student participation. Implemented **BERT-based sentiment analysis** to evaluate learner feedback and improve interaction quality, enhancing the overall user experience.
 
 ---
+### 🧠 Sentiment Analysis with BERT
 
+**Tech Stack:** Python, BERT, PyTorch, Transformers, Pandas, Scikit-learn
+Description: Developed a dynamic sentiment analysis web application powered by BERT to process large volumes of user reviews. Translated raw text data into actionable insights, enabling better decision-making. Enhanced workflows for real-time scalability and efficiency, streamlining sentiment analysis and improving user experience.
+
+---
 ## 🧰 Skills
 
 **Security & Detection:** Splunk, Suricata, Snort, Nessus, Qualys, Wireshark, CodeQL, Trivy, CrowdStrike, Microsoft Defender, IDS/IPS, SIEM, WAF, Zero Trust, Palo Alto Firewall, Nmap, Metasploit  
