@@ -55,7 +55,7 @@ Developed a fully functional E-Learning platform that increased user engagement 
 
 **Tech Stack:** Python, BERT, PyTorch, Transformers, Pandas, Scikit-learn
 Description: Developed a dynamic sentiment analysis web application powered by BERT to process large volumes of user reviews. Translated raw text data into actionable insights, enabling better decision-making. Enhanced workflows for real-time scalability and efficiency, streamlining sentiment analysis and improving user experience.
-
+- Link : [https://github.com/almeidamarilyn/Sentiment_Analysis_BERT]
 ---
 ## 🧰 Skills
 
