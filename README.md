@@ -33,11 +33,13 @@ I’m passionate about building **secure and scalable systems**—combining my *
 **Description:** Built an AI-powered secure code review framework that integrates static analyzers (Semgrep, Bandit, Gitleaks) with a machine learning triage layer to detect vulnerabilities, secrets, and insecure coding practices. Developed a FastAPI web dashboard to display real code snippets, rank findings by severity, and provide remediation guidance. Automated enforcement of secure coding standards using GitHub Actions and Git pre-commit hooks, enabling shift-left security and preventing high-risk code from reaching production.  
 - **Link:** [https://github.com/almeidamarilyn/AI_Secure_Code_Reviewer](https://github.com/almeidamarilyn/AI_Secure_Code_Reviewer)  
 
+---
 
 ### 🔍 Security Event Monitoring  
 **Tech Stack:** Splunk, Suricata, AWS CloudTrail, Python, PowerShell  
 **Description:** Designed and implemented a centralized security monitoring framework by integrating AWS CloudTrail logs with Suricata IDS alerts into Splunk. Built enrichment scripts in Python to pull in threat intelligence data, enabling faster and more accurate incident correlation. Developed custom Splunk dashboards and correlation rules that significantly reduced false positives and accelerated incident response times for simulated attacks.
 - Link : [https://github.com/almeidamarilyn/Security_Event_Monitoring_Suricata_AWS_Splunk]
+
 ---
 
 ### ⚙️ CI/CD Pipeline & Cloud Integration  
@@ -51,17 +53,20 @@ I’m passionate about building **secure and scalable systems**—combining my *
 **Description:** Developed a robust bulk email platform that allowed users to create and schedule custom email templates. Integrated tracking mechanisms for open/click rates and implemented spam detection algorithms to improve deliverability. Engineered an automated email warm-up system to enhance sender reputation, leading to a 15–20% increase in successful deliveries across campaigns.
 
 ---
+
 ### 🎓 Ed Learn – E-Learning Platform  
 **Tech Stack:** HTML5, CSS3, JavaScript, PHP, BERT  
 Developed a fully functional E-Learning platform that increased user engagement by 40%. Built backend infrastructure with secure login authentication and video upload capabilities for course management. Integrated discussion forums and one-on-one chat features, resulting in a 25% boost in student participation. Implemented **BERT-based sentiment analysis** to evaluate learner feedback and improve interaction quality, enhancing the overall user experience.
 
 ---
-### 🧠 Sentiment Analysis with BERT
 
+### 🧠 Sentiment Analysis with BERT
 **Tech Stack:** Python, BERT, PyTorch, Transformers, Pandas, Scikit-learn
 Description: Developed a dynamic sentiment analysis web application powered by BERT to process large volumes of user reviews. Translated raw text data into actionable insights, enabling better decision-making. Enhanced workflows for real-time scalability and efficiency, streamlining sentiment analysis and improving user experience.
 - Link : [https://github.com/almeidamarilyn/Sentiment_Analysis_BERT]
+
 ---
+
 ## 🧰 Skills
 
 **Security & Detection:** Splunk, Suricata, Snort, Nessus, Qualys, Wireshark, CodeQL, Trivy, CrowdStrike, Microsoft Defender, IDS/IPS, SIEM, WAF, Zero Trust, Palo Alto Firewall, Nmap, Metasploit  
