@@ -1,21 +1,20 @@
 # 👋 Hi, I’m Marilyn Almeida
 
 🎓 **Master’s in Cybersecurity** | 💻 **B.E. in Computer Engineering**  
-🔒 Security Engineer | ☁️ Cloud & DevSecOps Enthusiast | 🛡 Threat Detection with AI/ML  
+🔒 Security Engineer | ☁️ Cloud & DevSecOps Enthusiast | 👩‍💻 Software Developer  
 
-I’m passionate about building secure systems from the ground up—combining my development skills with cybersecurity expertise to create smarter, adaptive defenses.
+I’m passionate about building **secure and scalable systems**—combining my **software development skills** with **cybersecurity expertise** to create smarter, adaptive defenses and cloud-native applications.
 
 ---
 
 ## 🚀 About Me
 - 🔭 Recently worked as a **Security Engineer at Circle Internet Financial**  
-- 🌱 Exploring **AI & ML for threat detection**  
+- 🌱 Exploring **AI & ML for threat detection and secure coding**  
 - ☁️ Skilled in **Cloud Security, Kubernetes, DevSecOps pipelines**  
+- 👩‍💻 Experienced in **Python, Java, and full-stack development**  
 - 📍 Based in Los Angeles, CA  
 - ✉️ Reach me at **almeidamarilyn07@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/marilynalmeida) | [GitHub](https://github.com/almeidamarilyn)  
-
----
+----
 
 ## 💼 Work Experience
 
