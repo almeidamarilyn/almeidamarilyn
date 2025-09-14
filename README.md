@@ -29,6 +29,12 @@ I’m passionate about building secure systems from the ground up—combining my
 
 ## 🛠 Projects
 
+### ⚡ AI-Powered Secure Code Reviewer  
+**Tech Stack:** Python, Semgrep, Bandit, Gitleaks, FastAPI, GitHub Actions, Hugging Face  
+**Description:** Built an AI-powered secure code review framework that integrates static analyzers (Semgrep, Bandit, Gitleaks) with a machine learning triage layer to detect vulnerabilities, secrets, and insecure coding practices. Developed a FastAPI web dashboard to display real code snippets, rank findings by severity, and provide remediation guidance. Automated enforcement of secure coding standards using GitHub Actions and Git pre-commit hooks, enabling shift-left security and preventing high-risk code from reaching production.  
+- **Link:** [https://github.com/almeidamarilyn/AI_Secure_Code_Reviewer](https://github.com/almeidamarilyn/AI_Secure_Code_Reviewer)  
+
+
 ### 🔍 Security Event Monitoring  
 **Tech Stack:** Splunk, Suricata, AWS CloudTrail, Python, PowerShell  
 **Description:** Designed and implemented a centralized security monitoring framework by integrating AWS CloudTrail logs with Suricata IDS alerts into Splunk. Built enrichment scripts in Python to pull in threat intelligence data, enabling faster and more accurate incident correlation. Developed custom Splunk dashboards and correlation rules that significantly reduced false positives and accelerated incident response times for simulated attacks.
