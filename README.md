@@ -22,41 +22,6 @@ My focus is on bridging the gap between **software development and security**, e
 
 ---
 
-## 💼 Work Experience
-
-**Application & Cloud Security Engineer – Capital One Financial** *(Aug 2025 – Present)*  
-- Embedded **Terraform and CloudFormation checks** into CI/CD pipelines, reducing cloud misconfigurations by **50%**  
-- Restructured **IAM and RBAC policies**, lowering privileged access exposure by **40%**  
-- Enhanced fraud detection and incident response by **30%** through log correlation across **Splunk, CloudTrail, and KMS**  
-- Automated **vulnerability scans** in CI/CD, cutting manual review time by **25%** and accelerating secure releases  
-- Enforced **data encryption** via AWS KMS and Azure Key Vault to maintain **PCI DSS compliance**  
-- Reduced **configuration drift** by 20% through secure IaC practices and DevOps collaboration  
-- Authored **incident response playbooks**, improving escalation speed and remediation accuracy  
-
----
-
-**Cloud Security Engineer – Circle Internet Financial** *(May 2024 – Dec 2024)*  
-- Automated **multi-cloud resource audits** with Python scripts, improving verification efficiency by **30%**  
-- Developed **Tag Audit reports** to track asset ownership and criticality, increasing visibility by **25%**  
-- Built **Kubernetes admission controllers** using Rego rules to prevent insecure deployments  
-- Integrated **IaC scanning** in CI/CD pipelines with pre-commit hooks, cutting compliance issues by **15%**  
-- Tested and implemented **SAST/DAST integrations** (Aqua Trivy, CodeQL, Backslash) for early detection  
-- Enhanced posture management by integrating **Wiz** with AWS and GCP environments  
-- Partnered with engineers to resolve vulnerabilities faster, reducing **MTTR by 20%**  
-
----
-
-**Application & Cloud Security Engineer – Hexaware Technologies** *(Sep 2021 – Aug 2023)*  
-- Resolved **500+ vulnerabilities** via SAST/DAST (SonarQube, Veracode), reducing post-release incidents  
-- Centralized **logging and monitoring** via CloudTrail and Azure Security Center, cutting audit findings by **30%**  
-- Conducted **secure coding workshops** for 100+ engineers, reducing code defects by **25%**  
-- Integrated **API security testing** into SDLC to identify risks earlier and prevent exploits  
-- Performed **risk assessments** and prioritized remediation, lowering enterprise risk scores by **30%**  
-- Improved **incident analysis and recovery** through automated log correlation scripts  
-- Authored **application and cloud security policies**, strengthening compliance and governance  
-
----
-
 ## 🛠 Projects
 
 ### ⚡ AI-Powered Secure Code Reviewer  
