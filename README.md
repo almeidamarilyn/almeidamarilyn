@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm **Marilyn**, an **Application & Cloud Security Engineer** with 3+ years of experience embedding security into the SDLC. I help teams ship faster with fewer misconfigurations, tighter access controls, stronger vulnerability workflows, and quicker incident response.
+I'm **Marilyn**, an **Application &amp; Cloud Security Engineer** with 3+ years of experience embedding security into the SDLC. I help teams ship faster with fewer misconfigurations, tighter access controls, stronger vulnerability workflows, and quicker incident response.
 
 I work across cloud security, application security, DevSecOps automation, monitoring, incident response, and compliance-heavy environments.
 
@@ -54,7 +54,7 @@ I work across cloud security, application security, DevSecOps automation, monito
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Veracode](https://img.shields.io/badge/Veracode-111827?style=flat-square&logo=verizon&logoColor=white)
 
-### DevSecOps & Automation
+### DevSecOps &amp; Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -63,7 +63,7 @@ I work across cloud security, application security, DevSecOps automation, monito
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-### Monitoring, IR & Compliance
+### Monitoring, IR &amp; Compliance
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![QRadar](https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-34C759?style=flat-square&logo=securityscorecard&logoColor=white)
@@ -80,7 +80,7 @@ I work across cloud security, application security, DevSecOps automation, monito
   <tr>
     <td width="33%">
       <h3>Capital One Financial</h3>
-      <p><strong>Application & Cloud Security Engineer</strong></p>
+      <p><strong>Application &amp; Cloud Security Engineer</strong></p>
       <p><sub>Aug 2025 - Current · California, USA</sub></p>
       <p>Embedded Terraform and CloudFormation checks into CI/CD, redesigned IAM/RBAC for least privilege, and strengthened detection through Splunk, CloudTrail, and KMS log correlation.</p>
     </td>
@@ -92,7 +92,7 @@ I work across cloud security, application security, DevSecOps automation, monito
     </td>
     <td width="33%">
       <h3>Hexaware Technologies</h3>
-      <p><strong>Application & Cloud Security Engineer</strong></p>
+      <p><strong>Application &amp; Cloud Security Engineer</strong></p>
       <p><sub>Sep 2021 - Aug 2023 · India</sub></p>
       <p>Resolved 500+ critical vulnerabilities, centralized security logging, delivered OWASP secure coding workshops, and improved compliance baselines.</p>
     </td>
@@ -136,7 +136,7 @@ I work across cloud security, application security, DevSecOps automation, monito
 
 ---
 
-## Education & Certifications
+## Education &amp; Certifications
 
 <table>
   <tr>
