@@ -15,7 +15,7 @@
 
 <br />
 
-> Application &amp; Cloud Security Engineer with **3+ years** embedding security into the SDLC.
+> Application &amp; Cloud Security Engineer with **2+ years** embedding security into the SDLC.
 > I help teams ship faster with fewer misconfigurations, tighter access, and quicker incident response.
 
 <br />
@@ -28,13 +28,11 @@
 | Privileged access risk | **−40%** | IAM &amp; RBAC redesign |
 | Incident response time | **−30%** | SIEM correlation (Splunk + CloudTrail + KMS) |
 | Critical vulnerabilities | **500+** | Triaged &amp; remediated (SonarQube, Veracode) |
-| Engineers trained | **100+** | OWASP secure-coding workshops |
 
 <br />
 
 ## 🛠️ What I&apos;m working on
 
-- 🛡️ **Capital One** — Embedding Terraform/CloudFormation checks, restructuring IAM/RBAC, and correlating SIEM signals to harden production AWS &amp; Azure workloads.
 - 🤖 **AI-Powered Secure Code Reviewer** — Side project combining Semgrep, Bandit &amp; Gitleaks behind a FastAPI dashboard. Cuts false positives **35%**, speeds remediation **40%**.
 - 📚 Studying — Cloud-native Zero Trust patterns &amp; identity federation (SAML / OAuth / OIDC).
 
