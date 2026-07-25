@@ -102,8 +102,8 @@ Centralized event monitoring — integrated AWS CloudTrail logs and Suricata IDS
 
 ## 🎓 Education &amp; certifications
 
-- **M.S. in Cyber Security** — California State University, Dominguez Hills · *May 2025*
-- **B.E. in Computer Engineering** — University of Mumbai · *May 2023*
+- **M.S. in Cyber Security** — California State University, Dominguez Hills 
+- **B.E. in Computer Engineering** — University of Mumbai 
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white)
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
